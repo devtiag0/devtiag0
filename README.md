@@ -35,6 +35,6 @@ Olá, sou o Tiago, um entusiasta da programação que decidiu trilhar uma jornad
 - 💡Estou animado para aprender e crescer na área de programação e tecnologia. Se você também está começando ou tem interesse em compartilhar conhecimento, vamos nos conectar!
 
 <a href="https://www.linkedin.com/in/83rafasoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-[https://www.linkedin.com/in/tiago-santos-857b6428a/]
+- [https://www.linkedin.com/in/tiago-santos-857b6428a/]
 
 Fique à vontade para explorar meu perfil e acompanhar meu progresso nesta jornada de aprendizado e desenvolvimento.🚀
