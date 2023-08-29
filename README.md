@@ -34,6 +34,6 @@ Olá, sou o Tiago, um entusiasta da programação que decidiu trilhar uma jornad
 #Vamos Aprender Juntos?
 - 💡Estou animado para aprender e crescer na área de programação e tecnologia. Se você também está começando ou tem interesse em compartilhar conhecimento, vamos nos conectar!
 
-Linkedin
+Linkedin [https://www.linkedin.com/in/tiago-santos-857b6428a/]
 
 Fique à vontade para explorar meu perfil e acompanhar meu progresso nesta jornada de aprendizado e desenvolvimento.🚀
