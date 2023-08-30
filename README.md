@@ -8,7 +8,8 @@ Olá, sou o Tiago, um entusiasta da programação que decidiu trilhar uma jornad
 -🌱 Atualmente, estou focado na minha transição de carreira para o campo da tecnologia.
 
 -📚 Concluí recentemente um curso de lógica de programação através da plataforma Udemy, e o curso de Java para iniciantes, ministrado no canal "Curso em Vídeo", e estou participando do Bootcamp Santander (Java + Angular).
--🚀 Sou autodidata e estou sempre em busca de novos desafios e aprendizados.
+
+-🚀 Tenho muita facilidade em aprender e estou sempre em busca de novos desafios e aprendizados.
 
 -📧 Você pode entrar em contato comigo através do e-mail [tiago.lopesdossantos@outlook.com]
 
