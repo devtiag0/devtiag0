@@ -1,42 +1,42 @@
 # Bem vindo ao meu perfil!👋
 
-Olá, sou o Tiago, um entusiasta da programação que decidiu trilhar uma jornada no mundo da tecnologia. Embora minha formação seja em Ciências Contábeis, meu coração encontrou na programação uma nova paixão. Sinta-se à vontade para explorar meu perfil no GitHub!.
+Olá, sou o Tiago, um entusiasta de Machine Learning e Inteligência Artificial, atualmente aprofundando meus conhecimentos em tecnologias de dados. Meu objetivo é me tornar um engenheiro de Machine Learning, com foco em análise de dados.
 
 ## Sobre Mim
--📚 Graduado em Ciências Contábeis pela Universidade São Judas Tadeu (SP) e Comunicação e marketing pela Universidade Cidade de São Paulo.
-
--🌱 Atualmente, estou focado na minha transição de carreira para o campo da tecnologia.
-
--📚 Concluí recentemente um curso de lógica de programação através da plataforma Udemy, e o curso de Java para iniciantes, ministrado no canal "Curso em Vídeo", e estou participando do Bootcamp Santander (Java + Angular).
-
--🚀 Tenho muita facilidade em aprender e estou sempre em busca de novos desafios e aprendizados.
-
--📧 Você pode entrar em contato comigo através do e-mail [tiago.lopesdossantos@outlook.com]
+- 📚 Graduado em Ciências Contábeis pela Universidade São Judas Tadeu (SP) e em Comunicação e Marketing pela Universidade Cidade de São Paulo.
+- 📚 Graduando em Inteligência Artificial pela FIAP (SP), com início em fevereiro de 2025, focado em Machine Learning, IA Generativa e Natural Language Processing.
+- 🚀 Tenho 11 anos de experiência na área contábil financeira, sendo 8 anos em auditoria externa e 3 anos em diligência financeira para fusões e aquisições.
+- 💼 Atualmente trabalho com diligência financeira (KPMG), ajudando empresas em processos de fusões e aquisições.
+- 💡 Estudando Machine Learning, Python, Power BI e conceitos matemáticos para Machine Learning.
 
 ## Habilidades
-### Soft skills 
-- 💬Comunicação eficaz
-- 👥Trabalho em equipe
+### Soft Skills 
+- 💬 Comunicação eficaz
+- 👥 Trabalho em equipe
 - 🧠 Pensamento analítico
-- 🗂Organização
-- 🌍Adaptabilidade e curiosidade
-- 🤝Respeito à diversidade 
+- 🗂 Organização
+- 🌍 Adaptabilidade e curiosidade
+- 🤝 Respeito à diversidade 
 
 ### Hard Skills
-- 💻Conhecimentos básicos de lógica de programação
-- ☕️Fundamentos de Java
-- 📊Noções de Git e GitHub
-- 🌐 Bons conhecimentos de inglês (Nível B1 no teste EF Set
+- 🐍 Python
+- 📊 Machine Learning (Pandas, Scikit-Learn, Seaborn, Matplotlib)
+- 🧠 Fundamentos de Inteligência Artificial e Machine Learning
+- 🌐 Bons conhecimentos de inglês (Nível B1 no teste EF Set)
+- 📊 Noções de Git e GitHub
+
+## Repositórios Destacados
+- **Repositórios Focados em Machine Learning**: Criação de modelos para projeções financeiras e análises de dados, utilizando técnicas avançadas de Machine Learning.
 
 ## Objetivos
-- 🚀Estou empenhado em realizar uma transição gradual para a área de desenvolvimento, buscando oportunidades de crescimento e aprendizado.
-- 💡Meu foco inicial não é apenas a remuneração, mas sim aprender e contribuir com projetos.
+- 🚀 Transição gradual para a área de Engenharia de Machine Learning, buscando oportunidades de crescimento e aprendizado.
+- 💡 Focado em trabalhar com dados e criar modelos de Machine Learning para apoio à tomada de decisões.
 
-#Vamos Aprender Juntos?
-- 💡Estou animado para aprender e crescer na área de programação e tecnologia. Se você também está começando ou tem interesse em compartilhar conhecimento, vamos nos conectar!
+# Vamos Conectar?
+- 💡 Estou animado para aprender e crescer na área de Inteligência Artificial e Machine Learning. Se você também está nessa jornada ou tem interesse em compartilhar conhecimento, vamos nos conectar!
 
-<a href="https://www.linkedin.com/in/83rafasoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/tiago-lopes-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 [https://www.linkedin.com/in/tiago-lopes-dos-santos/]
 
-Fique à vontade para explorar meu perfil e acompanhar meu progresso nesta jornada de aprendizado e desenvolvimento.🚀
+Fique à vontade para explorar meu perfil e acompanhar meu progresso nesta jornada!
